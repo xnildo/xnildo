@@ -1,12 +1,14 @@
-### Olá, tudo bem?  👋
-📖Eu sou o Zé Nildo Pereira, sou Paraibano e moro em SP desde criança curto a cultura Geek , gosto e animes , mangás e séries, aprecio artes de preferência Artes Urbanas , gosto de graffite e desenho , gosto também de andar de bicicleta .
-Sempre trabalhei na área da construção civil.
+### Olá, Eu sou o Zé Nildo , sejam bem-vindos !!!👋:rocket:
 
-Venho fazendo minha transcrição para área de TI, Recém formado em Análise e Desenvolvimento de Sistemas pela  <a href="https://www.uninove.br/">Universidade Nove de Julho</a><br>
-Atualmente participando do BootCamp  <b> Desenvolvedor(a) FullStack Java Jr</b> pela <a href="https://brazil.generation.org/">Generation Brasil</a>
+📖<b>Paraibano, Morador de SP-Z/O desde criança e em fase de transição de carreira</b><br>
 
+🌱Formado em <b> Tecnologia em Análise e Desenvolvimento de Sistemas</b> pela <a href="https://www.uninove.br/unidades/campus/memorial">Universidade Nove de Julho - Uni9</a><br>
 
-🧠 Atualmente aprendendo: HTML/CSS/Angular
+🌱Recém formado do BootCamp <b> Desenvolvedor(a) Web Full Stack Java Jr</b> pela <a href="https://brazil.generation.org/">Generation Brasil</a><br>
+
+:rocket:Atualmente cursando Santander Coders Web Full Stack na <a href="https://letscode.com.br/"> Let's Code <a>em parceria com<a href="https://www.santander.com.br/"> Santander Universidades <a> <br>
+
+🧠Aprendendo e reforçando conhecimentos em: Html/Css/JavaScript/Bootstrap/Angular/MySQL/Java/SpringBoot
 
 👦 Pronomes: Ele/Dele
 
